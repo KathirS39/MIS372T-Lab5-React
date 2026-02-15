@@ -2,7 +2,7 @@ export default function Header({name}) {
     return (
         <header>
         <h1>
-            {`Welcome ${name} to `} <span id="txt-red">CodeCraft</span> Labs Intranet
+            {`Welcome ${name} to CodeCraft Labs Intranet`}
         </h1>
         <nav>
             <ul>
